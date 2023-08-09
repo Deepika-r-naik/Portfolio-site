@@ -45,13 +45,13 @@ $ git --version
 Setup and Installation
 Clone this repository using the GitHub link provided below:
 
-$ git clone https://github.com/Deepika-r-naik/Portfolio-site
+$ git clone https://github.com/Deepika-r-naik/Portfolio-site.git
 
 Navigate to the project directory:
 
 $ cd portfolio
 
-Usage
+#Usage
 Modify the code to customize the portfolio according to your skills, projects, and preferences.
 Update the HTML and CSS files to showcase your work, add your projects, and provide relevant links.
 Replace the screenshot in the README with a screenshot of your actual portfolio.
