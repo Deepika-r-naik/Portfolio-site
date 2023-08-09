@@ -17,7 +17,7 @@ This personal portfolio is developed to showcase skills and projects to a larger
 
 ## Portfolio Screenshot
 
-Include a screenshot or image of your portfolio here.
+
 
 ## Built with
 
